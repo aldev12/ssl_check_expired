@@ -1,5 +1,5 @@
-### Should use python3.9
+#### python3.9
 
-### pip install -r requirements.txt
+#### pip install -r requirements.txt
 
-### python main.py
+#### python main.py
